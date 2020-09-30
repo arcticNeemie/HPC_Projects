@@ -1,0 +1,6 @@
+
+Kernel completion time: 4783764.500000 ms
+
+Total number of solutions: 314666222712
+
+Running time for placing 21 queens on a 21 x 21 board 4784.649684 seconds

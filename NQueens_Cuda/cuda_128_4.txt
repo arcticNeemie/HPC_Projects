@@ -1,0 +1,80 @@
+==================================================================
+CUDA error at N_queens_cuda_shared.cu:378 code=77(cudaErrorIllegalAddress) "cudaDeviceSynchronize()" 
+
+Kernel completion time: 0.000017 seconds
+
+Total number of solutions: 4
+
+Running time for placing 6 queens on a 6 x 6 board 0.074385 seconds
+
+Kernel completion time: 0.000018 seconds
+
+Total number of solutions: 40
+
+Running time for placing 7 queens on a 7 x 7 board 0.076959 seconds
+
+Kernel completion time: 0.000020 seconds
+
+Total number of solutions: 92
+
+Running time for placing 8 queens on a 8 x 8 board 0.075744 seconds
+
+Kernel completion time: 0.000025 seconds
+
+Total number of solutions: 352
+
+Running time for placing 9 queens on a 9 x 9 board 0.083829 seconds
+
+Kernel completion time: 0.000042 seconds
+
+Total number of solutions: 724
+
+Running time for placing 10 queens on a 10 x 10 board 0.073693 seconds
+
+Kernel completion time: 0.000078 seconds
+
+Total number of solutions: 2680
+
+Running time for placing 11 queens on a 11 x 11 board 0.073661 seconds
+
+Kernel completion time: 0.000270 seconds
+
+Total number of solutions: 14200
+
+Running time for placing 12 queens on a 12 x 12 board 0.077740 seconds
+
+Kernel completion time: 0.000725 seconds
+
+Total number of solutions: 73712
+
+Running time for placing 13 queens on a 13 x 13 board 0.076678 seconds
+
+Kernel completion time: 0.003031 seconds
+
+Total number of solutions: 365596
+
+Running time for placing 14 queens on a 14 x 14 board 0.078506 seconds
+
+Kernel completion time: 0.017913 seconds
+
+Total number of solutions: 2279184
+
+Running time for placing 15 queens on a 15 x 15 board 0.091472 seconds
+
+Kernel completion time: 0.152052 seconds
+
+Total number of solutions: 14772512
+
+Running time for placing 16 queens on a 16 x 16 board 0.228063 seconds
+
+Kernel completion time: 0.791000 seconds
+
+Total number of solutions: 95815104
+
+Running time for placing 17 queens on a 17 x 17 board 0.873017 seconds
+
+Kernel completion time: 5.772196 seconds
+
+Total number of solutions: 666090624
+
+Running time for placing 18 queens on a 18 x 18 board 5.848048 seconds

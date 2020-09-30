@@ -1,0 +1,6 @@
+
+Kernel completion time: 38754.867188 ms
+
+Total number of solutions: 4968057848
+
+Running time for placing 19 queens on a 19 x 19 board 38.856350 seconds

@@ -1,0 +1,6 @@
+
+Kernel completion time: 293431.468750 ms
+
+Total number of solutions: 39029188884
+
+Running time for placing 20 queens on a 20 x 20 board 293.560748 seconds
